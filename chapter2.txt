@@ -1,1 +1,1 @@
-chapter2
+file is used to store space related information
